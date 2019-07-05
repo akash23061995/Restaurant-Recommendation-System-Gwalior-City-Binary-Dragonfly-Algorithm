@@ -1,0 +1,256 @@
+userID,latitude,longitude,smoker,drink_level,dress_preference,ambience,transport,marital_status,hijos,birth_year,interest,personality,religion,activity,color,weight,budget,height
+U1001,26.2341,78.2072,FALSE,social drinker,informal,friends,own vehicle,single,independent,1996,variety,thrifty-protector,hindu,student,green,72,medium,1.75
+U1002,26.2112,78.2123,TRUE,social drinker,informal,friends,own vehicle,single,independent,1995,variety,hunter-ostentatious,hindu,student,blue,80,medium,0
+U1003,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1994,none,hard-worker,hindu,professional,blue,96,low,1.75
+U1004,26.204391,78.189274,FALSE,abstemious,informal,family,own vehicle,single,independent,1997,variety,hard-worker,hindu,professional,black,42,medium,1.5245
+U1005,26.297185,78.245188,FALSE,abstemious,formal,family,own vehicle,single,independent,1996,none,thrifty-protector,hindu,professional,blue,78,medium,1.8
+U1006,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,independent,1995,variety,hard-worker,hindu,professional,blue,76,medium,1.74
+U1007,26.2183,78.1828,TRUE,casual drinker,informal,friends,own vehicle,single,independent,1995,variety,thrifty-protector,hindu,professional,white,95,medium,1.75
+U1008,26.253612,78.209912,FALSE,abstemious,no preference,friends,own vehicle,single,independent,1995,technology,hard-worker,hindu,student,red,174,medium,1.82
+U1009,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,1999,variety,thrifty-protector,hindu,student,black,70,medium,1.69
+U1010,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,2000,technology,hard-worker,hindu,student,black,53,low,0
+U1011,26.196249,78.167019,FALSE,abstemious,no preference,friends,public,single,dependent,0,variety,hard-worker,hindu,student,black,66,medium,0
+U1012,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,2000,technology,hard-worker,hindu,student,green,64,medium,0
+U1013,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1996,retro,thrifty-protector,hindu,student,blue,62,low,1.7
+U1014,26.2183,78.1828,FALSE,social drinker,no preference,friends,public,single,independent,1998,none,hard-worker,hindu,student,turquoise,69,medium,1.7
+U1015,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1997,technology,thrifty-protector,hindu,student,red,60,medium,1.65
+U1016,26.2495,78.174,TRUE,social drinker,informal,friends,public,single,dependent,1998,eco-friendly,thrifty-protector,hindu,student,black,59,medium,1.6764
+U1017,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,dependent,1998,retro,hunter-ostentatious,hindu,student,purple,53,medium,1.58
+U1018,26.2183,78.1828,FALSE,abstemious,informal,family,public,married,kids,0,technology,thrifty-protector,?,professional,white,62,medium,0
+U1019,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,0,variety,thrifty-protector,?,student,white,55,medium,0
+U1020,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1998,technology,hard-worker,hindu,student,green,52,medium,1.56
+U1021,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,independent,1996,none,hard-worker,christian,student,blue,70,medium,1.79
+U1022,26.224488,78.222802,FALSE,abstemious,no preference,family,own vehicle,single,independent,1997,variety,hard-worker,hindu,professional,black,47,medium,1.6
+U1023,26.213925,78.175446,FALSE,abstemious,informal,friends,own vehicle,single,dependent,1998,none,hard-worker,hindu,student,black,56,medium,1.7
+U1024,26.231794,78.180146,FALSE,casual drinker,informal,friends,own vehicle,single,independent,1996,none,hard-worker,hindu,student,black,55,medium,1.584
+U1025,26.199558,78.180203,FALSE,social drinker,informal,friends,own vehicle,single,?,1996,none,thrifty-protector,hindu,professional,black,70,medium,1.7
+U1026,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1999,technology,hunter-ostentatious,hindu,student,blue,54,low,1.62
+U1027,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1997,retro,thrifty-protector,hindu,student,blue,49,medium,1.6
+U1028,26.2495,78.174,FALSE,abstemious,informal,friends,own vehicle,single,independent,1998,variety,hard-worker,hindu,student,blue,55,medium,1.7
+U1029,26.231794,78.180146,FALSE,abstemious,informal,friends,public,single,dependent,1993,variety,conformist,hindu,student,blue,75,medium,1.75
+U1030,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1996,eco-friendly,hard-worker,hindu,student,blue,57,medium,1.6
+U1031,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,0,none,hard-worker,?,student,blue,70,medium,0
+U1032,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,0,variety,hard-worker,?,student,blue,65,medium,0
+U1033,26.2495,78.174,FALSE,abstemious,informal,family,own vehicle,single,independent,1996,none,hard-worker,hindu,student,white,60,medium,0
+U1034,26.2495,78.174,FALSE,abstemious,no preference,friends,own vehicle,single,independent,1995,technology,thrifty-protector,hindu,student,black,58,medium,0
+U1035,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1996,variety,hunter-ostentatious,hindu,student,black,55,medium,0
+U1036,26.2495,78.174,FALSE,social drinker,informal,friends,own vehicle,single,independent,1997,none,hard-worker,hindu,student,green,74,low,1.77
+U1037,26.2183,78.1828,FALSE,abstemious,informal,friends,on foot,single,independent,1997,variety,thrifty-protector,hindu,student,black,50,low,1.68
+U1038,26.2183,78.1828,FALSE,abstemious,informal,family,own vehicle,single,independent,1995,variety,thrifty-protector,hindu,student,red,55,medium,1.6
+U1039,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,0,none,hard-worker,?,student,blue,55,medium,0
+U1040,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1996,none,thrifty-protector,jain,student,blue,89,medium,1.8
+U1041,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,independent,1996,eco-friendly,hunter-ostentatious,hindu,student,black,64,medium,1.58
+U1042,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,independent,1996,technology,thrifty-protector,muslim,student,green,61,medium,1.78
+U1043,26.2495,78.174,FALSE,abstemious,no preference,friends,own vehicle,single,independent,1995,technology,hard-worker,hindu,student,red,72,medium,1.8
+U1044,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,dependent,1996,variety,thrifty-protector,hindu,student,black,59,medium,1.69
+U1045,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1997,technology,thrifty-protector,hindu,student,grey,69,medium,1.86
+U1046,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1996,retro,hard-worker,hindu,student,sky blue,65,medium,1.65
+U1047,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1997,retro,thrifty-protector,hindu,student,red,64,medium,0
+U1048,26.2495,78.174,FALSE,social drinker,no preference,friends,own vehicle,single,dependent,1997,eco-friendly,thrifty-protector,hindu,student,blue,69,medium,1.63
+U1049,26.2495,78.174,FALSE,abstemious,formal,friends,on foot,single,independent,1996,none,hard-worker,hindu,student,red,62,low,1.78
+U1050,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1996,variety,hard-worker,hindu,student,black,61,medium,0
+U1051,26.2183,78.1828,TRUE,social drinker,informal,friends,public,single,independent,0,variety,thrifty-protector,?,student,blue,55,medium,1.68
+U1052,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1994,none,conformist,hindu,student,black,65,medium,0
+U1053,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,independent,1996,variety,thrifty-protector,hindu,student,blue,83,medium,1.83
+U1054,26.204391,78.189274,TRUE,social drinker,informal,friends,public,single,independent,1995,technology,thrifty-protector,hindu,student,blue,52,medium,1.7
+U1055,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1996,none,hard-worker,hindu,student,blue,68,medium,1.72
+U1056,26.2495,78.174,FALSE,social drinker,informal,friends,own vehicle,single,independent,1995,none,hard-worker,hindu,student,blue,67,high,1.7
+U1057,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,0,technology,hunter-ostentatious,hindu,student,blue,68,medium,0
+U1058,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1996,variety,hard-worker,hindu,student,red,59,medium,0
+U1059,26.224488,78.222802,FALSE,abstemious,informal,friends,own vehicle,single,independent,1995,technology,thrifty-protector,hindu,student,red,74,medium,1.8
+U1060,26.2183,78.1828,FALSE,abstemious,no preference,family,public,single,dependent,1997,technology,thrifty-protector,hindu,student,black,50,medium,1.5
+U1061,17.395438,78.371842,TRUE,social drinker,informal,friends,public,single,dependent,1997,none,hard-worker,hindu,student,black,82,medium,1.6
+U1062,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,independent,1996,variety,hard-worker,hindu,student,blue,72,medium,1.73
+U1063,26.2495,78.174,FALSE,abstemious,formal,friends,public,single,independent,0,eco-friendly,conformist,?,student,red,50,medium,0
+U1064,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,independent,1996,variety,hunter-ostentatious,hindu,student,black,55,medium,1.63
+U1065,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1994,technology,conformist,hindu,student,yellow,58,medium,0
+U1066,26.2495,78.174,FALSE,abstemious,informal,friends,own vehicle,single,?,0,technology,thrifty-protector,?,student,black,60,medium,1.6
+U1067,26.204391,78.189274,FALSE,abstemious,no preference,friends,own vehicle,single,independent,1995,technology,thrifty-protector,sikh,student,red,58,medium,1.67
+U1068,26.2495,78.174,FALSE,social drinker,no preference,friends,public,single,independent,1996,technology,thrifty-protector,hindu,student,green,57,medium,1.67
+U1069,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,0,variety,thrifty-protector,?,student,blue,58,medium,1.68
+U1070,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1996,variety,thrifty-protector,hindu,student,yellow,50,medium,1.66
+U1071,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,independent,1995,none,hunter-ostentatious,hindu,student,blue,56,low,1.78
+U1072,26.224488,78.222802,FALSE,abstemious,informal,family,own vehicle,married,kids,1978,eco-friendly,thrifty-protector,hindu,professional,pink,63,medium,1.65
+U1073,26.2495,78.174,FALSE,abstemious,no preference,family,own vehicle,single,dependent,1994,none,hard-worker,hindu,student,pink,41,medium,1.6
+U1074,26.2183,78.1828,FALSE,abstemious,informal,friends,public,single,independent,1994,eco-friendly,hard-worker,other,student,black,80,medium,1.82
+U1075,26.2495,78.174,FALSE,abstemious,informal,friends,on foot,single,independent,1998,technology,thrifty-protector,hindu,student,blue,55,medium,1.5
+U1076,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,dependent,1998,technology,thrifty-protector,hindu,student,blue,63,medium,1.67
+U1077,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,2000,technology,thrifty-protector,hindu,student,black,65,medium,0
+U1078,26.2183,78.1828,FALSE,social drinker,informal,friends,public,single,independent,1996,variety,hard-worker,hindu,student,blue,57,medium,1.81
+U1079,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,independent,2000,technology,thrifty-protector,hindu,student,black,62,medium,1.75
+U1080,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1996,variety,hard-worker,hindu,student,red,72,medium,1.75
+U1081,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1997,variety,hard-worker,hindu,professional,black,67,medium,1.6
+U1082,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,1998,variety,hard-worker,hindu,student,red,70,medium,1.64
+U1083,26.2495,78.174,FALSE,social drinker,formal,friends,public,single,dependent,1997,none,hard-worker,hindu,student,pink,53,medium,1.68
+U1084,26.2495,78.174,FALSE,social drinker,no preference,friends,public,single,independent,1996,variety,thrifty-protector,hindu,student,black,58,medium,1.8
+U1085,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1996,technology,thrifty-protector,hindu,student,white,75,medium,1.75
+U1086,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,independent,1999,variety,hunter-ostentatious,hindu,student,blue,80,medium,0
+U1087,26.224488,78.222802,FALSE,abstemious,no preference,family,own vehicle,single,independent,2000,variety,thrifty-protector,hindu,student,red,50,medium,1.79
+U1088,26.2183,78.1828,FALSE,abstemious,informal,friends,public,single,independent,1996,none,hard-worker,hindu,student,black,76,low,1.6
+U1089,26.224488,78.222802,FALSE,social drinker,informal,family,own vehicle,married,kids,1974,variety,conformist,hindu,professional,blue,70,medium,1.3
+U1090,26.2183,78.1828,FALSE,social drinker,no preference,friends,own vehicle,single,independent,1996,variety,thrifty-protector,hindu,student,orange,62,medium,1.78
+U1091,26.2495,78.174,TRUE,social drinker,formal,solitary,on foot,single,independent,1996,eco-friendly,thrifty-protector,other,professional,Magenta,60,high,2
+U1092,26.2495,78.174,FALSE,social drinker,formal,friends,own vehicle,single,dependent,1998,variety,thrifty-protector,hindu,student,No choice,50,low,1.68
+U1093,26.2495,78.174,FALSE,abstemious,formal,friends,public,single,independent,1998,variety,thrifty-protector,hindu,student,white,57,low,1.7
+U1094,26.2183,78.1828,FALSE,abstemious,no preference,family,own vehicle,single,independent,0,variety,thrifty-protector,?,professional,orange,80,medium,1.77
+U1095,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1998,variety,thrifty-protector,hindu,student,black,70,medium,1.76
+U1096,26.224488,78.222802,FALSE,abstemious,no preference,friends,own vehicle,single,independent,1996,eco-friendly,hard-worker,hindu,professional,black,68,medium,1.67
+U1097,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1994,variety,hard-worker,hindu,student,green,49,medium,0
+U1098,26.231794,78.180146,FALSE,abstemious,formal,friends,public,single,independent,1993,none,thrifty-protector,hindu,student,blue,63,medium,1.65
+U1099,26.2495,78.174,FALSE,abstemious,no preference,family,public,single,independent,1999,technology,conformist,hindu,student,blue,55,low,0
+U1100,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1999,eco-friendly,hard-worker,zorostrian,student,yellow,47,medium,1.73
+U1101,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1999,eco-friendly,hunter-ostentatious,hindu,student,purple,120,medium,1.86
+U1102,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,dependent,1998,eco-friendly,conformist,hindu,student,white,65,medium,1.76
+U1103,26.2183,78.1828,FALSE,social drinker,informal,friends,public,single,dependent,1998,technology,hard-worker,hindu,student,black,54,medium,1.74
+U1104,26.2495,78.174,FALSE,abstemious,formal,friends,public,single,independent,1998,technology,hunter-ostentatious,hindu,student,black,67.5,medium,0
+U1105,26.2495,78.174,TRUE,abstemious,no preference,friends,public,single,dependent,0,variety,hard-worker,hindu,student,black,63,medium,1.8
+U1106,26.204391,78.189274,FALSE,abstemious,informal,friends,public,single,dependent,2000,technology,hard-worker,hindu,student,blue,68,medium,1.7
+U1107,26.2183,78.1828,FALSE,abstemious,informal,friends,public,single,dependent,2000,variety,hard-worker,hindu,student,yellow,80,medium,1.83
+U1108,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,1999,technology,thrifty-protector,hindu,student,green,70,medium,0
+U1109,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,1999,eco-friendly,thrifty-protector,hindu,student,black,60,medium,1.65
+U1110,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,2000,variety,thrifty-protector,hindu,student,blue,60,medium,1.65
+U1111,26.204391,78.189274,FALSE,abstemious,no preference,friends,own vehicle,single,dependent,2000,none,hard-worker,hindu,professional,purple,69,medium,1.7
+U1112,26.2183,78.1828,FALSE,social drinker,no preference,friends,public,single,dependent,1998,none,hard-worker,hindu,student,black,68,low,1.65
+U1113,26.2495,78.174,FALSE,abstemious,formal,family,own vehicle,single,dependent,1998,none,thrifty-protector,hindu,student,black,78,medium,1.73
+U1114,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,0,variety,hard-worker,hindu,student,orange,65,medium,1.72
+U1115,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,dependent,1998,variety,hard-worker,hindu,student,black,55,medium,1.702
+U1116,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1999,technology,thrifty-protector,hindu,student,white,80,low,1.75
+U1117,26.204391,78.189274,FALSE,abstemious,informal,friends,public,single,dependent,1998,technology,thrifty-protector,hindu,student,blue,70,medium,1.6
+U1118,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1997,technology,thrifty-protector,hindu,student,orange,56,medium,1.65
+U1119,26.2495,78.174,FALSE,abstemious,informal,friends,own vehicle,single,dependent,1999,eco-friendly,thrifty-protector,hindu,student,black,70,medium,1.68
+U1120,26.2495,78.174,FALSE,abstemious,informal,friends,own vehicle,single,dependent,1999,variety,hard-worker,hindu,student,red,69,medium,1.68
+U1121,26.2495,78.174,FALSE,abstemious,informal,friends,own vehicle,single,dependent,1998,variety,thrifty-protector,hindu,student,blue,68,medium,1.69
+U1122,26.2495,78.174,FALSE,social drinker,no preference,friends,public,single,?,1999,none,hard-worker,hindu,student,purple,45,medium,1.66
+U1123,26.2495,78.174,FALSE,abstemious,informal,solitary,public,single,independent,1998,technology,hard-worker,hindu,student,black,60,low,1.7
+U1124,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1998,none,hard-worker,hindu,student,blue,68,medium,1.66
+U1125,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2000,technology,hard-worker,hindu,student,white,52,low,1.7
+U1126,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1998,technology,hard-worker,hindu,student,blue,68,medium,1.7
+U1127,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,1999,variety,hard-worker,hindu,student,blue,69,medium,1.69
+U1128,28.545326,77.470026,FALSE,abstemious,informal,friends,public,single,dependent,1998,variety,thrifty-protector,hindu,student,black,74,medium,1.8
+U1129,26.2183,78.1828,FALSE,social drinker,formal,friends,public,single,independent,1998,variety,thrifty-protector,sikh,student,red,60,medium,1.67
+U1130,26.2495,78.174,FALSE,abstemious,no preference,friends,own vehicle,single,?,0,none,hard-worker,?,student,black,55,medium,0
+U1131,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,1999,eco-friendly,hard-worker,hindu,student,purple,55,medium,1.8
+U1132,26.2183,78.1828,FALSE,social drinker,no preference,friends,public,single,?,1999,none,hard-worker,hindu,student,green,57,medium,1.73
+U1133,26.204391,78.189274,FALSE,abstemious,informal,friends,public,single,independent,1998,none,hard-worker,hindu,student,red,60,medium,0
+U1134,26.2495,78.174,TRUE,casual drinker,no preference,friends,public,single,independent,1998,variety,hard-worker,buddhist,student,black,68,low,1.6
+U1135,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,0,variety,hunter-ostentatious,hindu,student,blue,55,medium,0
+U1136,26.2495,78.174,TRUE,social drinker,no preference,friends,public,single,independent,1999,retro,thrifty-protector,hindu,student,black,58,medium,0
+U1137,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2000,variety,thrifty-protector,hindu,student,blue,50,medium,1.75
+U1138,26.2495,78.174,FALSE,abstemious,informal,friends,own vehicle,single,independent,1999,variety,hard-worker,hindu,student,blue,74,medium,1.6
+U1139,26.2183,78.1828,FALSE,abstemious,informal,friends,By Foot,single,dependent,1998,technology,thrifty-protector,hindu,student,green,59,medium,1.74
+U1140,26.2183,78.1828,FALSE,social drinker,informal,friends,public,single,dependent,1998,variety,hunter-ostentatious,hindu,student,black,68,medium,1.81
+U1141,26.2183,78.1828,FALSE,abstemious,informal,solitary,public,single,dependent,1997,technology,thrifty-protector,hindu,student,brown,70,medium,1.64
+U1142,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,0,variety,hard-worker,?,student,black,72,medium,0
+U1143,26.2495,78.174,FALSE,social drinker,no preference,friends,own vehicle,single,independent,2000,technology,thrifty-protector,hindu,student,black,70,low,0
+U1144,26.2495,78.174,FALSE,abstemious,informal,friends,own vehicle,single,independent,1998,retro,thrifty-protector,hindu,student,white,55,low,0
+U1145,26.2495,78.174,FALSE,social drinker,formal,friends,public,single,dependent,1997,none,hard-worker,hindu,student,red,69,medium,1.65
+U1146,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,0,technology,thrifty-protector,?,student,blue,75,medium,0
+U1147,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1999,eco-friendly,thrifty-protector,sikh,student,black,70,medium,1.77
+U1148,26.2495,78.174,TRUE,abstemious,informal,friends,public,single,independent,1999,retro,hard-worker,hindu,student,red,62,medium,0
+U1149,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1997,variety,hard-worker,hindu,student,black,70,medium,1.5
+U1150,26.2495,78.174,TRUE,social drinker,informal,friends,public,single,dependent,1998,variety,thrifty-protector,hindu,student,black,67,low,1.7
+U1151,26.2495,78.174,TRUE,social drinker,informal,friends,own vehicle,single,dependent,0,technology,conformist,?,student,black,58,low,0
+U1152,26.2495,78.174,TRUE,abstemious,informal,friends,public,single,dependent,1998,variety,thrifty-protector,hindu,student,blue,70,medium,1.73
+U1153,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1998,technology,thrifty-protector,hindu,student,black,70,medium,1.8
+U1154,26.204391,78.189274,FALSE,social drinker,informal,friends,public,single,dependent,1996,variety,hard-worker,hindu,student,red,58,medium,1.77
+U1155,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1997,technology,hard-worker,hindu,student,green,76,medium,1.22
+U1156,26.2495,78.174,FALSE,abstemious,formal,friends,own vehicle,single,independent,1999,retro,hunter-ostentatious,hindu,student,green,50,medium,1.7
+U1157,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2000,none,hard-worker,hindu,student,orange,70,medium,1.62
+U1158,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1999,technology,thrifty-protector,hindu,student,red,70,medium,1.62
+U1159,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,2000,variety,thrifty-protector,hindu,student,blue,50,medium,1.6
+U1160,26.2495,78.174,FALSE,abstemious,formal,friends,public,single,dependent,2001,variety,hard-worker,hindu,student,purple,65,medium,1.76
+U1161,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,2000,technology,hard-worker,hindu,student,green,60,medium,0
+U1162,26.2183,78.1828,FALSE,abstemious,informal,friends,public,single,dependent,2000,variety,conformist,hindu,student,blue,63,medium,1.7
+U1163,26.2183,78.1828,FALSE,abstemious,formal,friends,public,single,dependent,2000,technology,hunter-ostentatious,hindu,student,white,65,medium,1.6
+U1164,26.2495,78.174,FALSE,abstemious,no preference,friends,By Foot,single,dependent,1998,variety,thrifty-protector,hindu,student,black,67,low,1.65
+U1165,26.2495,78.174,FALSE,abstemious,informal,family,own vehicle,single,independent,1999,technology,thrifty-protector,hindu,student,blue,63,medium,1.69
+U1166,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1999,retro,hard-worker,hindu,student,red,52,low,1.68
+U1167,26.2495,78.174,FALSE,abstemious,informal,family,own vehicle,single,independent,2000,none,thrifty-protector,hindu,student,black,55,medium,1.76
+U1168,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1999,technology,thrifty-protector,hindu,student,black,73,low,0
+U1169,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,2000,technology,hard-worker,hindu,student,white,58,medium,1.65
+U1170,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1999,variety,hard-worker,hindu,student,black,67,medium,1.78
+U1171,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2000,technology,thrifty-protector,hindu,student,blue,60,medium,2
+U1172,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1999,variety,conformist,hindu,student,blue,65,medium,1.7
+U1173,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,1999,technology,thrifty-protector,buddhist,student,blue,48,low,1.63
+U1174,26.2495,78.174,FALSE,abstemious,informal,friends,By Foot,single,dependent,1999,technology,thrifty-protector,hindu,student,Yellowish-Green,71,medium,1.71
+U1175,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,dependent,1998,variety,hard-worker,hindu,student,blue,75,medium,1.75
+U1176,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,1999,variety,hard-worker,hindu,student,red,60,medium,1.73
+U1177,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,?,2001,technology,hunter-ostentatious,hindu,student,green,63,medium,0
+U1178,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2000,variety,hard-worker,hindu,student,black,60,medium,1.75
+U1179,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2000,technology,hard-worker,hindu,student,black,90,medium,1.753
+U1180,26.2495,78.174,FALSE,abstemious,informal,solitary,public,single,dependent,2000,variety,hard-worker,hindu,student,black,59,medium,1.778
+U1181,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,2000,variety,thrifty-protector,hindu,student,blue,72,medium,1.8
+U1182,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,0,technology,hunter-ostentatious,hindu,student,blue,58,medium,1.65
+U1183,26.2495,78.174,FALSE,abstemious,informal,family,own vehicle,single,dependent,1999,variety,hard-worker,hindu,student,red,65,medium,1.83
+U1184,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1997,technology,thrifty-protector,hindu,student,red,50,low,0
+U1185,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1999,variety,thrifty-protector,hindu,student,blue,72,medium,0
+U1186,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2001,technology,hard-worker,hindu,student,blue,80,medium,1.7
+U1187,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2001,retro,thrifty-protector,hindu,student,orange,100,medium,1.78
+U1188,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2000,none,hunter-ostentatious,hindu,student,blue,76,medium,1.82
+U1189,26.2495,78.174,FALSE,abstemious,formal,friends,public,single,dependent,1999,technology,thrifty-protector,hindu,student,blue,50,medium,1.8
+U1190,26.2495,78.174,FALSE,abstemious,no preference,friends,By Foot,single,dependent,2001,variety,hard-worker,hindu,student,blue,68,medium,1.5
+U1191,26.2495,78.174,FALSE,abstemious,informal,friends,own vehicle,single,dependent,2000,technology,thrifty-protector,hindu,student,blue,55,medium,0
+U1192,26.2495,78.174,FALSE,abstemious,informal,friends,own vehicle,single,dependent,1999,variety,thrifty-protector,hindu,student,green,70,low,1.75
+U1193,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,0,technology,hard-worker,hindu,student,red,65,high,0
+U1194,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,?,1999,variety,thrifty-protector,hindu,student,black,85,medium,1.8
+U1195,26.2495,78.174,FALSE,social drinker,informal,friends,own vehicle,single,dependent,2000,variety,thrifty-protector,hindu,student,blue,58,medium,0
+U1196,26.2495,78.174,FALSE,abstemious,informal,family,By Foot,single,dependent,1999,technology,hard-worker,hindu,student,blue,60,medium,1.7
+U1197,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,1999,variety,thrifty-protector,hindu,student,blue,63,high,1.8
+U1198,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,2000,technology,hard-worker,hindu,student,blue,78,medium,1.7
+U1199,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1999,variety,hard-worker,hindu,student,white,62,medium,1.68
+U1200,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1999,technology,hunter-ostentatious,hindu,student,blue,75,medium,0
+U1201,26.2495,78.174,FALSE,abstemious,no preference,solitary,own vehicle,single,independent,2000,variety,thrifty-protector,hindu,student,red,80,medium,1.67
+U1202,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,1999,technology,hard-worker,hindu,student,Magenta,76,medium,1.72
+U1203,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,1999,variety,thrifty-protector,buddhist,student,blue,65,medium,1.77
+U1204,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,2000,variety,thrifty-protector,hindu,student,black,59,medium,1.68
+U1205,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,2000,technology,hard-worker,hindu,student,yellow,95,medium,0
+U1206,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2000,variety,hard-worker,hindu,student,black,57,medium,1.64
+U1207,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2000,technology,thrifty-protector,hindu,student,blue,57,medium,1.76
+U1208,26.2495,78.174,FALSE,abstemious,formal,friends,By Foot,single,?,1999,variety,conformist,hindu,student,blue,60,medium,1.7
+U1209,26.2495,78.174,FALSE,abstemious,formal,friends,By Foot,single,dependent,1998,variety,thrifty-protector,hindu,student,white,64,low,1.74
+U1210,26.2495,78.174,FALSE,casual drinker,no preference,friends,public,single,dependent,2000,technology,thrifty-protector,other,professional,orange,69,low,1.69
+U1211,26.2183,78.1828,FALSE,abstemious,formal,friends,public,single,independent,1999,variety,hard-worker,hindu,student,blue,95,medium,1.79
+U1212,26.2183,78.1828,FALSE,abstemious,no preference,friends,public,single,independent,0,technology,hard-worker,?,student,red,65,medium,0
+U1213,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,2000,variety,hunter-ostentatious,hindu,student,red,52,low,1.72
+U1214,26.2495,78.174,FALSE,abstemious,informal,family,public,single,dependent,1999,technology,hard-worker,hindu,student,blue,60,low,1.69
+U1215,26.2183,78.1828,FALSE,abstemious,informal,friends,public,single,dependent,1998,retro,thrifty-protector,muslim,student,red,65,medium,1.75
+U1216,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,1998,none,thrifty-protector,hindu,student,purple,60,medium,1.5
+U1217,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,0,technology,hard-worker,hindu,student,grey,55,medium,0
+U1218,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1999,variety,thrifty-protector,hindu,student,grey,52,medium,1.69
+U1219,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,?,2000,variety,hard-worker,hindu,student,orange,60,medium,1.63
+U1220,26.2495,78.174,FALSE,abstemious,formal,friends,public,single,dependent,2000,technology,hard-worker,hindu,student,blue,55,medium,1.68
+U1221,26.2495,78.174,FALSE,abstemious,no preference,friends,own vehicle,single,independent,1999,variety,hunter-ostentatious,hindu,student,red,70,medium,1.7
+U1222,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1999,technology,thrifty-protector,hindu,student,black,70,medium,1.69
+U1223,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,?,0,variety,hard-worker,?,student,blue,72,medium,0
+U1224,26.2495,78.174,FALSE,abstemious,no preference,solitary,public,single,dependent,2001,technology,thrifty-protector,hindu,student,yellow,120,medium,0
+U1225,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,2000,retro,thrifty-protector,jain,student,black,75,medium,0
+U1226,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,2000,none,thrifty-protector,hindu,student,blue,56,medium,1.7
+U1227,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,1999,variety,hard-worker,hindu,student,black,70,medium,1.78
+U1228,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,2000,technology,hard-worker,hindu,student,red,70,medium,1.52
+U1229,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,2000,variety,conformist,hindu,student,purple,67,medium,1.7
+U1230,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,2000,technology,hunter-ostentatious,hindu,student,blue,80,medium,1.82
+U1231,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2000,technology,thrifty-protector,hindu,student,blue,60,medium,1.7
+U1232,26.2495,78.174,FALSE,social drinker,no preference,friends,public,single,independent,1999,eco-friendly,thrifty-protector,hindu,student,blue,70,high,0
+U1233,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,?,2001,retro,hard-worker,hindu,student,black,50,medium,1.62
+U1234,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,2000,variety,thrifty-protector,hindu,student,black,60,high,1.7
+U1235,26.2495,78.174,FALSE,abstemious,formal,family,public,single,dependent,2001,variety,thrifty-protector,jain,student,black,68,medium,1.7
+U1236,26.2183,78.1828,FALSE,social drinker,formal,friends,public,single,independent,1999,technology,hard-worker,hindu,student,black,74,medium,1.84
+U1237,26.2495,78.174,FALSE,abstemious,formal,friends,public,single,independent,1999,variety,hard-worker,hindu,student,white,47,medium,1.62
+U1238,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,dependent,2000,technology,thrifty-protector,hindu,student,black,87,medium,1.72
+U1239,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,2000,none,conformist,hindu,student,blue,65,medium,1.6
+U1240,26.2495,78.174,FALSE,abstemious,informal,friends,own vehicle,single,dependent,0,variety,thrifty-protector,?,student,blue,70,medium,0
+U1241,26.2495,78.174,FALSE,abstemious,informal,friends,own vehicle,single,dependent,0,technology,thrifty-protector,?,student,blue,70,medium,0
+U1242,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,dependent,2001,variety,hard-worker,hindu,student,black,50,medium,1.65
+U1243,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1999,technology,hard-worker,hindu,student,pink,58,medium,1.66
+U1244,26.2495,78.174,FALSE,social drinker,informal,friends,public,single,independent,1999,technology,thrifty-protector,hindu,student,red,68,medium,1.6
+U1245,26.2495,78.174,FALSE,social drinker,no preference,friends,own vehicle,single,?,1999,eco-friendly,hard-worker,hindu,student,purple,54,low,1.74
+U1246,26.2495,78.174,FALSE,abstemious,formal,friends,public,single,dependent,2001,retro,hard-worker,hindu,student,blue,90,medium,1.7
+U1247,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,dependent,2000,variety,conformist,hindu,student,green,58,medium,1.78
+U1248,26.2495,78.174,FALSE,abstemious,no preference,friends,public,single,independent,2000,variety,hunter-ostentatious,other,student,blue,110,low,0
+U1249,26.231794,78.180146,FALSE,abstemious,no preference,friends,public,single,independent,0,technology,thrifty-protector,?,student,yellow,70,medium,0
+U1250,26.2183,78.1828,FALSE,abstemious,formal,friends,own vehicle,single,dependent,1999,none,thrifty-protector,hindu,student,black,64,medium,0
+U1251,26.204391,78.189274,FALSE,abstemious,no preference,friends,public,single,dependent,2000,none,hard-worker,hindu,student,black,68,medium,1.69
+U1252,26.204391,78.189274,FALSE,abstemious,formal,friends,public,single,dependent,1999,none,thrifty-protector,hindu,student,blue,60,medium,0
+U1253,26.2495,78.174,FALSE,abstemious,no preference,solitary,public,single,dependent,1997,retro,thrifty-protector,hindu,student,white,60,medium,1.73
+U1254,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,1998,variety,hard-worker,hindu,student,blue,65,medium,1.8
+U1255,26.2495,78.174,FALSE,abstemious,informal,friends,public,single,independent,2000,technology,hard-worker,hindu,student,yellow,70,low,1.83
